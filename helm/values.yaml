@@ -4,7 +4,7 @@ replicaCount: 2
 
 image:
   repository: swaroopp03/production-cicd-app
-  tag: 213b11fd748c81c036ecb7de1441cf7f12e9ba9b
+  tag: 3145cd35ad5ce1e2180ae7ea8140018714438a27
   pullPolicy: IfNotPresent
 
 service:
