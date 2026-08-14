@@ -1,6 +1,6 @@
 {
   "name": "production-cicd-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production CI/CD and GitOps demonstration application",
   "main": "src/server.js",
   "scripts": {
